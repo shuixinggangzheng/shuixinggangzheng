@@ -5,7 +5,6 @@
 ## 在做的事
 
 - **ElainaChat** —— 自带 Key 的角色扮演聊天客户端。对话直连 DeepSeek / OpenAI 兼容接口，语音直连 MiniMax，不经过任何自建服务器。已覆盖 Web、Android、PC（WPF + WebView2）与 HarmonyOS。
-- **DeepSeek-Reasonix** —— 面向终端的 DeepSeek 原生 AI 编程助手，围绕 prefix-cache 稳定性设计，让它能长时间挂着跑。
 - **Astra** —— 一部七章的视觉小说，正用末语引擎一章一章地做。剧本、立绘、配音、分镜都在自己手上磨。
 
 ## 关注的方向
